@@ -10,19 +10,19 @@
       },
       {
         "id_figurina": 2,
-        "razza_animale": "Leone",
-        "specie_animale": "Panthera leo",
-        "area_provenienza": "Africa",
+        "razza_animale": "Cane",
+        "specie_animale": "Cane",
+        "area_provenienza": "Globale",
         "rischio_estinzione": false,
-        "foto": "https://i.imgur.com/ub9uK8u.png"
+        "foto": "https://i.some-random-api.ml/x0ElNLKaXh.jpg"
       },
       {
         "id_figurina": 3,
-        "razza_animale": "Tigre del Bengala",
-        "specie_animale": "Panthera tigris tigris",
-        "area_provenienza": "India",
+        "razza_animale": "Uccello",
+        "specie_animale": "Volatile",
+        "area_provenienza": "Globale",
         "rischio_estinzione": true,
-        "foto": "https://i.imgur.com/ub9uK8u.png"
+        "foto": "https://i.some-random-api.ml/By5HYAeDPD.png"
       }
     ]
   }
