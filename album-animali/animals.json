@@ -1,0 +1,29 @@
+{
+    "animals": [
+      {
+        "id_figurina": 1,
+        "razza_animale": "Panda Rosso",
+        "specie_animale": "Ailurus fulgens",
+        "area_provenienza": "Himalaya",
+        "rischio_estinzione": true,
+        "foto": "https://i.imgur.com/ub9uK8u.png"
+      },
+      {
+        "id_figurina": 2,
+        "razza_animale": "Leone",
+        "specie_animale": "Panthera leo",
+        "area_provenienza": "Africa",
+        "rischio_estinzione": false,
+        "foto": "https://i.imgur.com/ub9uK8u.png"
+      },
+      {
+        "id_figurina": 3,
+        "razza_animale": "Tigre del Bengala",
+        "specie_animale": "Panthera tigris tigris",
+        "area_provenienza": "India",
+        "rischio_estinzione": true,
+        "foto": "https://i.imgur.com/ub9uK8u.png"
+      }
+    ]
+  }
+  

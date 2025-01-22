@@ -1,0 +1,12 @@
+html
+  head
+    title Dettagli Animale
+    link(rel="stylesheet" href="/style.css")
+  body
+    h1= razza_animale
+    img(src=foto, alt=razza_animale)
+    ul
+      li Specie: #{specie_animale}
+      li Area di provenienza: #{area_provenienza}
+      li Rischio estinzione: #{rischio_estinzione ? 'Sì' : 'No'}
+    a(href="/") Torna alla lista
