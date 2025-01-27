@@ -14,7 +14,7 @@
         "specie_animale": "Cane",
         "area_provenienza": "Globale",
         "rischio_estinzione": false,
-        "foto": "https://i.some-random-api.ml/x0ElNLKaXh.jpg"
+        "foto": "https://random.dog/de8cefc2-3be8-46ab-9d12-12198bfaa60d.jpg"
       },
       {
         "id_figurina": 3,
@@ -22,7 +22,7 @@
         "specie_animale": "Volatile",
         "area_provenienza": "Globale",
         "rischio_estinzione": true,
-        "foto": "https://i.some-random-api.ml/By5HYAeDPD.png"
+        "foto": "https://cdn.pixabay.com/photo/2019/10/20/14/49/bird-4563886_960_720.jpg"
       }
     ]
   }
